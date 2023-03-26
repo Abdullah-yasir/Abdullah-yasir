@@ -12,4 +12,4 @@ Here are some ideas to get you started: -->
     - To install complex plugins (that consist of two or more files)
     - To install plugins from remote source i.e. Github or NPM
 - 💬 Got a problem to solve or may be a query?
-    - Let connect on [LinkedIn](https://www.linkedin.com/in/abdullah-yasir-itech)
+    - Let's connect on [LinkedIn](https://www.linkedin.com/in/abdullah-yasir-itech)
